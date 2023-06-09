@@ -1,5 +1,6 @@
 ### Hi there 👋
- - 🤖
+ - 📖 Studying
+ - 🖥️ Loves technology
 <!--
 **lightoshadow/lightoshadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
